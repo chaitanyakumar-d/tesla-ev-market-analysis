@@ -1,0 +1,100 @@
+
+--- PAGE 1 ---
+Q1 2024 Update
+1
+--- PAGE 2 ---
+Highlights        03
+Financial Summary       04
+Operational Summary       06
+Vehicle Capacity      07
+Core Technology       08
+Other Highlights        09
+Outlook        10
+Photos & Charts  11
+Key Metrics   22
+Financial Statements       24
+Additional Information      30
+--- PAGE 3 ---
+S U M M A R YH I G H L I G H T S
+(1) Excludes SBC (stock-based compensation), net of tax; (2) Free cash flow = operating cash flow less capex; (3) Includes cash, cash equivalents and investments; (4) Calculated by dividing Cost of Automotive Sales 
+Revenue by respective quarter’s new deliveries (ex-operating leases); (5)Active driver supervision required; does not make the vehicle autonomous. 
+Profitability $1.2B GAAP operating income in Q1
+$1.1B GAAP net income in Q1
+$1.5B non-GAAP net income 1 in Q1
+We experienced numerous challenges in Q1, from the Red Sea conflict and the 
+arson attack at Gigafactory Berlin, to the gradual ramp of the updated Model 3 in 
+Fremont. Excluding Cybertruck and unscheduled downtime, our COGS 4 per unit 
+declined sequentially, driven primarily by lower raw material costs.
+Global EV sales continue to be under pressure as many carmakers prioritize hybrids 
+over EVs. While positive for our regulatory credits business, we prefer the industry 
+to continue pushing EV adoption, which is in -line with our mission. To support our 
+growth, we have been increasing  awareness and expanding vehicle financing 
+programs, including attractive leasing terms for our customers.
+While many are pulling back on their investments, we are investing in future growth 
+– including our AI infrastructure, production capacity, our Supercharger and service 
+networks and new products infrastructure  – with $2.8B of capital expenditures in 
+Q1. 
+We recently undertook a cost -cutting exercise to increase operational efficiency. 
+We also remain committed to company -wide cost reduction, including reducing 
+COGS per vehicle. Ultimately, we are focused on profitable growth, including by 
+leveraging existing factories and production lines to introduce new and more 
+affordable products.
+The future is not only electric, but also autonomous. We believe scaled autonomy is 
+only possible with data from millions of vehicles and an immense AI training cluster. 
+We have, and continue to expand, both. To make FSD (Supervised)  5 more 
+accessible, we reduced the price of subscription to $99/month and the purchase 
+price to $8,000 in the US.
+Cash Operating cash flow of $0.2B in Q1
+Free cash flow2 of negative $2.5B in Q1 (AI infrastructure capex 
+was $1.0B in Q1)
+$2.2B decrease in our cash and investments 3 in Q1 to $26.9B
+Operations Increased AI training compute by more than 130% in Q1
+Record energy storage deployment of 4.1 GWh in Q1
+Produced over 1,000 Cybertrucks in a single week in April
+--- PAGE 4 ---
+F I N A N C I A L   S U M M A R Y
+(Unaudited)
+($ in millions, except percentages and per share data) Q1-2023 Q2-2023 Q3-2023 Q4-2023 Q1-2024 YoY
+Total automotive revenues 19,963 21,268 19,625 21,563 17,378 -13%
+Energy generation and storage revenue 1,529 1,509 1,559 1,438 1,635 7%
+Services and other revenue 1,837 2,150 2,166 2,166 2,288 25%
+Total revenues 23,329 24,927 23,350 25,167 21,301 -9%
+Total gross profit 4,511 4,533 4,178 4,438 3,696 -18%
+Total GAAP gross margin 19.3% 18.2% 17.9% 17.6% 17.4% -199 bp
+Operating expenses 1,847 2,134 2,414 2,374 2,525 37%
+Income from operations 2,664 2,399 1,764 2,064 1,171 -56%
+Operating margin 11.4% 9.6% 7.6% 8.2% 5.5% -592 bp
+Adjusted EBITDA 4,267 4,653 3,758 3,953 3,384 -21%
+Adjusted EBITDA margin 18.3% 18.7% 16.1% 15.7% 15.9% -240 bp
+Net income attributable to common stockholders (GAAP) 2,513 2,703 1,853 7,928 1,129 -55%
+Net income attributable to common stockholders (non-GAAP) 2,931 3,148 2,318 2,485 1,536 -48%
+EPS attributable to common stockholders, diluted (GAAP) 0.73 0.78 0.53 2.27 0.34 -53%
+EPS attributable to common stockholders, diluted (non-GAAP) 0.85 0.91 0.66 0.71 0.45 -47%
+Net cash provided by operating activities 2,513 3,065 3,308 4,370 242 -90%
+Capital expenditures (2,072) (2,060) (2,460) (2,306) (2,773) 34%
+Free cash flow 441 1,005 848 2,064 (2,531) -674%
+Cash, cash equivalents and investments 22,402 23,075 26,077 29,094 26,863 20%
+4
+--- PAGE 5 ---
+F I N A N C I A L S U M M A R Y
+5
+Revenue Total revenue declined 9% YoY in Q1 to $21.3B. YoY, revenue was impacted by the following items:
+- reduced vehicle average selling price (ASP) YoY (excl. FX impact), including unfavorable impact of mix
+- decline in vehicle deliveries, partially due to the Model 3 update in the Fremont factory and Giga Berlin production 
+disruptions
+- negative FX impact of $0.2B 1
++ growth in other parts of the business
++ higher FSD revenue recognition YoY due to release of Autopark feature in North America 
+Profitability Our operating income decreased YoY to $1.2B in Q1, resulting in a 5.5% operating margin. YoY, operating income was 
+primarily impacted by the following items:
+- reduced vehicle ASP due to pricing and mix
+- increase in operating expenses partly driven by AI, cell advancements and other R&D projects
+- cost of Cybertruck production ramp
+- decline in vehicle deliveries, partially due to the Model 3 update in the Fremont factory and Giga Berlin production 
+disruptions
++ lower cost per vehicle, including lower raw material costs, freight and duties
++ gross profit growth in Energy Generation and Storage including IRA credit benefit
++ higher FSD revenue recognition YoY due to release of Autopark feature in North America 
+Cash Quarter-end cash, cash equivalents and investments in Q1 was $26.9B. The sequential decrease of $2.2B was a result of 
+negative free cash flow of $2.5B, driven by an inventory increase of $2.7B and AI infrastructure capex of $1.0B in Q1.
+(1) Impact is calculated on a constant currency basis. Actuals are compared against current results converted into USD using aver age exchange rates from Q1’23.
